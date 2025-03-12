@@ -20,4 +20,15 @@ nav ul li{
 nav ul li a {
     text-decoration: none;
     color: #fff;
-
+}
+nav ul li a:hover{
+    color:red;
+    text-decoration: underline;
+}
+article header:hover{
+    color:green;
+    font-size: large;
+}
+tieu_de_phu{
+    font-style: italic;
+}
